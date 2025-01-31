@@ -13,6 +13,9 @@ function multiply(a, b) {
 function div(a, b) {
     return a / b;
 }
+qewajhkfDLSWfaslk
+
+
 
 function testAdd() {
     console.log(add(1, 1) === 2)
